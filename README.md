@@ -10,7 +10,8 @@ Important servers to host software on AWS
 Installtion of servers as EC2 on AWS
 Defining Secuirty groups for EC2
 
-Instaltion and configuration of apache, loadbalancer, database.
+Installation and configuration of apache, loadbalancer, database.
+Includes templates and python script needed to run servers
 
 
 Enabling different sites, loadbalacing with nginx with ansible playbooks
