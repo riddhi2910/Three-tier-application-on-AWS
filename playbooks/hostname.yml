@@ -1,0 +1,6 @@
+---
+  - hosts: all
+    name: get server names
+    tasks:
+      - command: hostname 
+        name: server name is on the way
